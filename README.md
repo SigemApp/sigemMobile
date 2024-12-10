@@ -1,4 +1,4 @@
-# Documentação do Aplicativo Mobile de Gerenciamento de Máquinas
+# Documentação do Aplicativo Mobile de Gerenciamento de Manutenção
 
 ## Descrição
 
