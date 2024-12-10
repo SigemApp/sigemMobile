@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "SigemApp",
+    "slug": "SigemApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/sigem.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/sigem.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#070419"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/sigem.png",
+        "backgroundColor": "#070419"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/sigem.png"
+    }
+  }
+}
